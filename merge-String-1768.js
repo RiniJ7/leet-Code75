@@ -1,3 +1,7 @@
+// methods used : .length,.push,.join
+// functions used : while , if , return
+
+
 /**
  * @param {string} word1
  * @param {string} word2
