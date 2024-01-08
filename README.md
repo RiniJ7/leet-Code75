@@ -3,7 +3,7 @@
 Goal:
 The primary aim of this repository is to practice the problem solving skills through the Leet 75 Coding questions. 
 
-Link to my LeetCode: 
+Link to LeetCode75: 
 https://leetcode.com/studyplan/leetcode-75/
 
 **Exercise 1**
