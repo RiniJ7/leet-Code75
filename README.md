@@ -22,3 +22,14 @@ Given two strings str1 and str2, return the largest string x such that x divides
 Constraints:
 1 <= str1.length, str2.length <= 1000
 str1 and str2 consist of English uppercase letters.
+
+**Exercise 3**
+**1431** Kids With the Greatest Number of Candies**
+There are n kids with candies. You are given an integer array candies, where each candies[i] represents the number of candies the ith kid has, and an integer extraCandies, denoting the number of extra candies that you have.
+Return a boolean array result of length n, where result[i] is true if, after giving the ith kid all the extraCandies, they will have the greatest number of candies among all the kids, or false otherwise.
+Note that multiple kids can have the greatest number of candies.
+Constraints:
+n == candies.length
+2 <= n <= 100
+1 <= candies[i] <= 100
+1 <= extraCandies <= 50
